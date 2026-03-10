@@ -1,0 +1,2 @@
+# task4-internship-management-system
+User management system with authentication, CRUD operations, and database integration using PHP and SQLite.
